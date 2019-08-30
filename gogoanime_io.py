@@ -153,6 +153,6 @@ def main():
         else:
             print("Have a nice day :-)")
     except Exception as h:
-        print("Error: // "+str(h).title90)  
+        print("Error: // "+str(h).title())  
 if __name__=="__main__":
     main()
